@@ -34,7 +34,7 @@ can find out about text editors [here](editors.md).
 
 
 ## Python
-######  (30 minutes)
+######  (5 - 13 hours)
 We will work with Python (2.7) throughout the course, and [learning and
 getting familiar with Python](python.md) is crucial. 
 
