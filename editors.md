@@ -11,10 +11,11 @@ any coding text editor, we strongly suggest learning how to use
 Emacs*. To do that, you can follow
 [Absolute Beginner's Guide to Emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/). Make
 a cheat sheet of the main key-bindings (moving around, copying,
-pasting, undo, etc.). You can go through this in half to one hour. Use
-Emacs as you go through the next steps of prework that involves coding
-(Python tutorial and coding exercises of Think Stats and Think
-Bayes). This will give you experience and get you faster.
+pasting, undo, etc.). You can go through this in thirty minutes to one
+hour. Try to use Emacs at every chance you get, especially as you go
+through the next steps of prework that involves coding. The Python
+tutorial and coding exercises of Think Stats provide excellent chances
+to do so. This will give you experience and get you faster.
 
 [Sublime Text](http://www.sublimetext.com/) text is another popular
 editor, but it's not free. [Vim](https://code.google.com/p/macvim/)
