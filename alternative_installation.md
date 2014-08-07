@@ -6,7 +6,7 @@ This is another way of installing matplotlib and other packages, but
 is more likely to run into problems.
 
 
-#### Freetype and png libraries (necessary for matplotlib)
+### Freetype and png libraries (necessary for matplotlib)
 
 Open a terminal and type the following:
 
@@ -29,14 +29,14 @@ from [here](http://xquartz.macosforge.org/landing/), and then repeat
 these steps.
 
 
-#### Pip
+### Pip
 
 Pip is a python package manager. Install it with
 
      sudo easy_install pip
 
 
-#### iPython, Numpy, Scipy
+### iPython, Numpy, Scipy
 
 Now we can use pip to install these packages
 
@@ -44,7 +44,7 @@ Now we can use pip to install these packages
      sudo pip install numpy
      sudo pip install scipy
 
-#### Matplotlib
+### Matplotlib
 
      sudo pip install matplotlib
 
