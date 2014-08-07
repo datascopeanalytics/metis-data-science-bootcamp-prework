@@ -7,7 +7,7 @@ terminal in a Mac OS X before, you can open it by holding down
 Command, hitting Space, typing terminal, and clicking on the terminal
 application that looks like a black box)
 
-1. Apple's Xcode and Command Line Tools
+#### Apple's Xcode and Command Line Tools
 
 Xcode is the developer's suite for OSX that comes free from Apple,
 however, it doesn't come installed by default. Command Line Tools is a
@@ -15,7 +15,7 @@ part of it that makes the OS X command line behave more like
 Unix. Since OSX Lion, the Xcode installation doesn't include the
 command Line Tools by default.
 
-* On Mac OS X Lion / Mountain Lion
+###### On Mac OS X Lion / Mountain Lion
 You can install Xcode via the
 [App Store](https://itunes.apple.com/us/app/xcode/id497799835).
 
@@ -23,11 +23,11 @@ Once Xcode has been installed, run Xcode and then open the
 preferences. Select the Download section and the Components tab and
 install Command Line Tools from there.
 
-* On Mavericks
+###### On Mavericks
 You can install Command Line Tools directly on a terminal with
     xcode-select install
 
-1. Homebrew
+#### Homebrew
 
 Homebrew is an excellent package manager for OSX. If you don't have
 it, install it with
@@ -47,7 +47,7 @@ To apply this change, do
 
 Or alternatively, close the terminal and open a new one.
 
-1. Python
+#### Python
 
 We will use homebrew to install python. OS X comes with python, but
 it's runtime environment is not up to date. Install python with
@@ -62,13 +62,13 @@ you should see
 
      /usr/local/bin/python
 
-1. Pip
+#### Pip
 
 Pip is a python package manager. Install it with
 
      easy_install pip
 
-1. Numpy and Scipy
+#### Numpy and Scipy
 
 Numpy and Scipy are the fundamental scientific computing packages for python.
 First we will need to install gfortran (a dependency) with homebrew
@@ -80,11 +80,11 @@ Then use pip for numpy and scipy
      pip install numpy
 	 pip install scipy
 
-1. iPython and iPython notebook
+#### iPython and iPython notebook
 
      pip install ipython[notebook]
 
-1. Matplotlib
+#### Matplotlib
 
      brew install pkg-config
 	 pip install matplotlib
@@ -98,7 +98,7 @@ installed, add an --upgrade to the end like this:
 to make sure you have the latest version.
 
 
-1. Test that you have the right environment
+#### Test that you have the right environment
 
 Type
 
@@ -116,18 +116,18 @@ If for some reason you don't want to use homebrew, or you hit
 unexpected problems, you can check out the [alternative installation
 guide](alternative_installation.md) to reach this step.
 
-1. Scikit.learn
+#### Scikit.learn
 
 Scikit.learn is an excellent machine learning library for python.
 
      pip install scikit-learn
 
-1. Pandas is a data analysis library for python.
+#### Pandas is a data analysis library for python.
 
      pip install pandas
 
 
-1. Test scikit-learn and pandas
+#### Test scikit-learn and pandas
 
 Open up the python interpreter with
 
@@ -140,7 +140,7 @@ and try importing these packages
 
 There should be no errors.
 
-1. Install git
+#### Git
 
 Git is a version control tool. You can use the graphical installer
 that you can download from
