@@ -2,14 +2,13 @@
 
 To get familiar with Python, please follow
 [Dive into Python](http://www.diveintopython.net/toc/index.html),
-Chapters 2 through 6. You can
-[follow it online](http://www.diveintopython.net/toc/index.html) or
-download a PDF version on the previous link and follow that.
+Chapters 2 through 6. You can download the PDF version, or
+[follow it online](http://www.diveintopython.net/toc/index.html).
 
 Of course, depending on your experience with Python, you can skip
-parts of this or the entire tutorial. However, if you are not already
-very familiar with using python, we believe that this tutorial will be
-very useful.
+parts or the entire tutorial. However, if you are not already very
+familiar with using python, we believe that this tutorial will be very
+useful.
 
 
 ##### Note on the interpreter
