@@ -1,5 +1,5 @@
-Alternative matplotlib installation
-===================================
+## Alternative matplotlib installation
+
 
 
 This is another way of installing matplotlib and other packages, but

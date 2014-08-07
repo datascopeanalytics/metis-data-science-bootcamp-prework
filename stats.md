@@ -1,5 +1,4 @@
-Statistics
-==========
+## Statistics
 
 Allen Downey wrote great short books to introduce statistics in a fun
 way, going over examples and exercises using python. They are freely

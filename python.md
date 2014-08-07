@@ -1,5 +1,4 @@
-Python Tutorial
-===============
+## Python Tutorial
 
 To get familiar with Python, please follow
 [Dive into Python](http://www.diveintopython.net/toc/index.html),

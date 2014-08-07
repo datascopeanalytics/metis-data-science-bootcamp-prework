@@ -1,4 +1,4 @@
-
+## Emacs (and other text editors)
 
 [Emacs](http://emacsformacosx.com/) is a very popular text editor for
 coding. It has been around since the mid 1970s and is still being

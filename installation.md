@@ -1,5 +1,4 @@
-Installing the necessary packages
-=================================
+## Installing the necessary packages
 
 You will first install some important packages. A lot of this involves
 typing commands in the terminal. (In case you haven't used the
