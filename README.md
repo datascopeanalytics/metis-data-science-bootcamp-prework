@@ -3,7 +3,14 @@
 Welcome! Congratulations on your acceptance. We hope you are really
 excited. We want you to get ready for the bootcamp and have a smooth
 experience. This means there is some work to be done before the start
-of the bootcamp. Feel free to contact us if you have any questions.
+of the bootcamp.
+
+You will install some packages we will use, learn about the command
+line tools, get used to Emacs, go through a Python tutorial, and
+refresh your statistics background. The time estimates for each step
+are there to give you a general idea. Depending on what you are
+familiar with and what is new, you may spend less or more at each
+step. Feel free to contact us if you have any questions.
 
 
 ### Installing packages 
