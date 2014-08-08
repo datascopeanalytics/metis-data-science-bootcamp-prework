@@ -44,8 +44,8 @@ is a much longer process.
 If you are very confident about your programming skills and code
 almost daily, but never really coded in Python, and want to know how
 to tackle specific coding scenarios in Python, you can look further
-into further chapters in Dive into Python, or use the follow the free
-online resources listed in
+into further chapters in Dive into Python, or use the free online
+resources listed in
 [this list](https://wiki.python.org/moin/BeginnersGuide/Programmers).
 
 
