@@ -20,20 +20,21 @@ not necessary.
 
 You can go through the entire book in 3 to 8 hours (depending on how
 much time you spend on the Python code presented in the book) Please
-do so. If it takes somewhat longer, do spend the time. We will go over
-a lot of these topics in the bootcamp as well, but this preparation
-will help you a lot, and also provides good initial exposure to how
-python can be used for data analysis. If at any point you feel
-overwhelmed, don't worry. You don't need to master all of this in
-prework.
+do so. If it takes somewhat longer, that's fine. However, don't get
+stuck on a chapter. We will go over a lot of these topics in the
+bootcamp as well. This preparation will help you a lot, and it will
+provide a good initial exposure to using python for data analysis, but
+it is not your only chance to internalize these topics. If at any
+point you feel overwhelmed, don't worry. You don't need to master all
+of this in prework.
 
 If you can finish under 10 hours, we suggest picking an exercise from
 each chapter (one that sounds exciting and looks quickly doable to
 you) and working on them. This is optional, but will definitely
 improve your skills and bootcamp experience. Take your time with the
-exercises, don't rush them. Don't push to finish something from each
-chapter, if you're short on time. With these exercises even completing
-a single one is an excellent bonus.
+exercises, don't rush them. Don't push yourself to finish something
+from each chapter, if you're short on time. Even completing a single
+exercise is an excellent bonus.
 
 
 ### Think Bayes Chapters 1 & 2
@@ -49,3 +50,4 @@ you can find it [here](http://www.greenteapress.com/thinkbayes/).
 Please read the first two chapters of this book will work both as a
 reinforcement of probabilities (covered by Think Stats as well) and an
 introduction to the Bayesian framework.
+
