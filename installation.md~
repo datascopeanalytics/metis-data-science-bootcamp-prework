@@ -24,7 +24,6 @@ install Command Line Tools from there.
 
 ###### On Mavericks
 You can install Command Line Tools directly on a terminal with
-
     xcode-select --install
 
 ### Homebrew
