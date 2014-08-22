@@ -24,15 +24,15 @@ install Command Line Tools from there.
 
 ###### On Mavericks
 You can install Command Line Tools directly on a terminal with
-    xcode-select install
+    xcode-select --install
 
 ### Homebrew
 
 Homebrew is an excellent package manager for OSX. If you don't have
 it, install it with
 
-     ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"
-
+     ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+     
 Open the .bash_profile file in your home directory (create one if it
 doesn't exist) and add this line:
 
