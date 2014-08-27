@@ -10,7 +10,9 @@ line tools, get used to Emacs, go through a Python tutorial, and
 refresh your statistics background. The time estimates for each step
 are there to give you a general idea. Depending on what you are
 familiar with and what is new, you may spend less or more at each
-step. Feel free to contact us if you have any questions.
+step. Feel free to contact us if you have any questions. Please do so 
+through the [pre-work support thread](http://162.243.206.168/t/pre-work-megathread)
+on our [discourse site](http://162.243.206.168/)(account required).
 
 
 ### Installing packages 
@@ -50,4 +52,3 @@ getting familiar with Python](python.md) is crucial.
 ######  (10 - 14 hours)
 Time to freshen up your statistics knowledge! We have a [guide](stats.md)
 for doing exactly that.
-
