@@ -57,7 +57,8 @@ to make sure you have the latest version.
 
 Also, here are online resources that you can refer to if your setup
 hits any unexpected problems:
-[A larger stack with virtual environment](http://www.tapir.caltech.edu/~dtsang/python.html)
-[Linking X11 method](https://github.com/rueckstiess/mtools/wiki/matplotlib-Installation-Guide)
-[Homebrew method](http://penandpants.com/2012/02/24/install-python/)
+[A larger stack with virtual environment](http://www.tapir.caltech.edu/~dtsang/python.html)  
+[Linking X11 method](https://github.com/rueckstiess/mtools/wiki/matplotlib-Installation-Guide)  
+[Homebrew method](http://penandpants.com/2012/02/24/install-python/)  
+
 
