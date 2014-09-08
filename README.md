@@ -51,4 +51,4 @@ getting familiar with Python](python.md) is crucial.
 ### Statistics
 ######  (10 - 14 hours)
 Time to freshen up your statistics knowledge! We have a [guide](stats.md)
-for doing exactly that.
+for doing exactly that. Thank you very much.
