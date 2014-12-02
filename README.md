@@ -11,7 +11,7 @@ refresh your statistics background. The time estimates for each step
 are there to give you a general idea. Depending on what you are
 familiar with and what is new, you may spend less or more at each
 step. Feel free to contact us if you have any questions. Please do so 
-through the [pre-work support thread](http://162.243.206.168/t/pre-work-megathread)
+through the [pre-work support thread](http://162.243.206.168/t/prework-megathread)
 on our [discourse site](http://162.243.206.168/) (account required).
 
 
