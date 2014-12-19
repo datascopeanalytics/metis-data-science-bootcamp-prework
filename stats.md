@@ -7,7 +7,7 @@ available to boot.
 
 ### Think Stats
 
-> update!
+> ###update!  
 > a new version of Think Stats has been released, and we're switching 
 > over to the new one. It's a massive overhaul and includes many convenient
 > features for us, most obviously the v. convenient integration of packages 
