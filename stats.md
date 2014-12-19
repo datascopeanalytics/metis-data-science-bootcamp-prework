@@ -25,8 +25,9 @@ quite concise and easy to read.
 You can download a PDF or read the book online
 [here](http://www.greenteapress.com/thinkstats2/). Of course, if you
 are so inclined, you can also buy a hard copy on Amazon, but that is
-not necessary.
-*1st edition still available here:* [linky](http://www.greenteapress.com/thinkstats/)
+not necessary.  
+
+> *1st edition still available here:* [linky](http://www.greenteapress.com/thinkstats/)
 
 You can go through the entire book in 3 to 8 hours (depending on how
 much time you spend on the Python code presented in the book) Please
