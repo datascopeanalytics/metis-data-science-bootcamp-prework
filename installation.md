@@ -22,7 +22,7 @@ Once Xcode has been installed, run Xcode and then open the
 preferences. Select the Download section and the Components tab and
 install Command Line Tools from there.
 
-###### On Mavericks/Yosemite
+###### On Mavericks / Yosemite
 You can install Command Line Tools directly on a terminal with
 
     xcode-select --install
