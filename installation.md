@@ -27,8 +27,6 @@ You can install Command Line Tools directly on a terminal with
 
     xcode-select --install
 
-but you should still run Xcode once, because the installation fully finishes only after you agree to the terms, which you can do when you run Xcode for the first time.
-
 ### Homebrew
 
 Homebrew is an excellent package manager for OSX. If you don't have
