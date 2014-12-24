@@ -8,7 +8,7 @@ available to boot.
 ### Think Stats
 
 > ###update!  
-> a new version of Think Stats has been released, and we're switching 
+> a new version of Think Stats has been released, and we switched 
 > over to the new one. It's a massive overhaul and includes many great new
 > features for us, most obviously the v. convenient integration of packages 
 > that are staples in the bootcamp: `pandas`, `scipy`, and `statsmodels`.
@@ -27,25 +27,22 @@ You can download a PDF or read the book online
 are so inclined, you can also buy a hard copy on Amazon, but that is
 not necessary.  
 
-> *1st edition still available here:* [linky](http://www.greenteapress.com/thinkstats/)
+> *The older 1st edition is still available here:* [linky](http://www.greenteapress.com/thinkstats/)
 
-You can go through the entire book in 3 to 8 hours (depending on how
-much time you spend on the Python code presented in the book) Please
+We will be focusing on the first 9 chapters. You can go through these chapters in 6 to 9 hours (depending on how
+familiar you are with statistics and python) Please
 do so. If it takes somewhat longer, that's fine. However, don't get
-stuck on a chapter. We will go over a lot of these topics in the
-bootcamp as well. This preparation will help you a lot, and it will
+stuck too long on a single chapter. This preparation will help you a lot, and it will
 provide a good initial exposure to using python for data analysis, but
 it is not your only chance to internalize these topics. If at any
 point you feel overwhelmed, don't worry. You don't need to master all
 of this in prework.
 
-If you can finish under 10 hours, we suggest picking an exercise from
-each chapter (one that sounds exciting and looks quickly doable to
-you) and working on them. This is optional, but will definitely
-improve your skills and bootcamp experience. Take your time with the
-exercises, don't rush them. Don't push yourself to finish something
-from each chapter, if you're short on time. Even completing a single
-exercise is an excellent bonus.
+5 of the 6 required exercises are also from this book. It would be a good idea to tackle these exercises as you work your way through the book. For example, the first exercise is 2.4 at the end of chapter 2. The best time to start working on it is after you read Chapter 2. 
+
+If you can finish the required exercises with time to spend, we suggest working on some of the optional ones. These may take longer, but will definitely improve your skills and bootcamp experience. Take your time with these
+exercises, don't rush them. Don't push yourself to finish any of them, if you're short on time. Even completing a single
+of these is an excellent bonus.
 
 
 ### Think Bayes Chapters 1 & 2
@@ -61,4 +58,6 @@ you can find it [here](http://www.greenteapress.com/thinkbayes/).
 Please read the first two chapters of this book will work both as a
 reinforcement of probabilities (covered by Think Stats as well) and an
 introduction to the Bayesian framework.
+
+The last required exercise is from Think Bayes, and two optional exercises are also Bayesian problems.
 
