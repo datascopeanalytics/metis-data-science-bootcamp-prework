@@ -21,7 +21,7 @@ This repository also includes some ipython notebooks.
 
 We will learn, use and get very familiar with ipython notebooks in class,
 but if you want to learn more about them ahead of time to use them for these exercises, 
-you can check out the [documentation](http://ipython.org/ipython-doc/stable/notebook/notebook.html).
+you can check out the [documentation](http://ipython.org/ipython-doc/stable/notebook/notebook.html). You can also optionally try your hand at Think Stats Exercise 1.1, which gives you an ipython notebook and asks a few questions.
 
 ### Required Exercises
 
