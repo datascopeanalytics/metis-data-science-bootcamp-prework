@@ -5,10 +5,10 @@ way, going over examples and exercises using python. They are freely
 available to boot.
 
 
-### Think Stats
+### Think Stats Chapters 1 - 9
 
-> ###update!  
-> a new version of Think Stats has been released, and we switched 
+> ###Update!  
+> A new version of Think Stats has been released, and we switched 
 > over to the new one. It's a massive overhaul and includes many great new
 > features for us, most obviously the v. convenient integration of packages 
 > that are staples in the bootcamp: `pandas`, `scipy`, and `statsmodels`.
@@ -29,7 +29,7 @@ not necessary.
 
 > *The older 1st edition is still available here:* [linky](http://www.greenteapress.com/thinkstats/)
 
-We will be focusing on the first 9 chapters. You can go through these chapters in 6 to 9 hours (depending on how
+We will be focusing on the **first 9 chapters**. You can go through these chapters in 6 to 9 hours (depending on how
 familiar you are with statistics and python) Please
 do so. If it takes somewhat longer, that's fine. However, don't get
 stuck too long on a single chapter. This preparation will help you a lot, and it will
