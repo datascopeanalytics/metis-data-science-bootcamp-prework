@@ -5,7 +5,10 @@ excited. We want you to get ready for the bootcamp and have a smooth
 experience. This means there is some work to be done before the start
 of the bootcamp.
 
-You will install some packages we will use, learn about the command
+As a first step, please create at account at our [Discourse site](http://162.243.206.168/).
+This is a forum that we will use throughout the bootcamp, where we will get to know each other, share materials, ask and answer questions and discuss.
+
+Throughout the prework process, you will install some packages we will use, learn about the command
 line tools, get used to Emacs, go through a Python tutorial, and
 refresh your statistics background. The time estimates for each step
 are there to give you a general idea. Depending on what you are
@@ -16,7 +19,7 @@ As the final step, you will work on some exercises that go along with the statis
 
 Feel free to contact us if you have any questions. Please do so 
 through the [pre-work support thread](http://162.243.206.168/t/prework-megathread)
-on our [discourse site](http://162.243.206.168/) (account required).
+on Discourse.
 
 ### Installing packages 
 ###### (30 minutes)
