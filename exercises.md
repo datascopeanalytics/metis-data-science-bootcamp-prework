@@ -7,8 +7,9 @@ If you can finish your work on these required exercises and submit them **before
 In any case, please keep your instructors informed of your progress. If you have questions about the exercises or anything else, you can ask them on the [pre-work support thread] on Discourse (so others can see the answers, too). If you'd rather ask in private, you can send a PM (private message) to either instructor on Discourse, or even email them.
 
 The answers can be in any form that shows your work: it can be python files and graphs, you can paste your code and results in an email, you can attach an ipython notebook. We will accept any medium as long as we can see your answers.
+
 Once you are ready to submit, please email the results to your instructors, Irmak and Bo, at
-**irmak@datasco.pe** and **bo@datasco.pe**
+**irmak@datasco.pe** and **bo@datasco.pe**.
 
 
 ### Setup
