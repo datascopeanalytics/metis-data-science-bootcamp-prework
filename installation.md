@@ -86,6 +86,10 @@ and then try again. Gfortran comes with gcc, already provided by OS X, but older
 
      pip install ipython[notebook]
 
+### Statsmodels
+
+     pip install statsmodels
+
 ### Matplotlib
 
      brew install pkg-config
