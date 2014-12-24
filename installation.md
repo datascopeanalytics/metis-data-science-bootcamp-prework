@@ -115,6 +115,7 @@ to open an ipython IDE. Then test numpy, scipy and matplotlib:
 
      import numpy
 	 import scipy
+	 import statsmodels
 	 import matplotlib
 
 There shouldn't be any errors.
